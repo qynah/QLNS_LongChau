@@ -1,0 +1,55 @@
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\bin\Debug\App.config
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\bin\Debug\UnitTestLogin.dll
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\bin\Debug\UnitTestLogin.pdb
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\bin\Debug\QLNS_TinhVanSoftWare.exe
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\bin\Debug\QLNS_TinhVanSoftWare.pdb
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\bin\Debug\QLNS_TinhVanSoftWare.exe.config
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\obj\Debug\UnitTestLogin.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\obj\Debug\UnitTestLogin.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\obj\Debug\UnitTestLogin.csproj.CopyComplete
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\obj\Debug\UnitTestLogin.dll
+C:\Users\admin\Downloads\Nhapmon\Q\QLNS_TinhVanSoftWare\QLNS_TinhVanSoftWare\UnitTestLogin\obj\Debug\UnitTestLogin.pdb
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\obj\Debug\UnitTestLogin.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\obj\Debug\UnitTestLogin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\obj\Debug\UnitTestLogin.dll
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\obj\Debug\UnitTestLogin.pdb
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\bin\Debug\App.config
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\bin\Debug\UnitTestLogin.dll
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\bin\Debug\UnitTestLogin.pdb
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\bin\Debug\QLNS_DuocPhamLocifa.exe
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\bin\Debug\QLNS_DuocPhamLocifa.pdb
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\bin\Debug\QLNS_DuocPhamLocifa.exe.config
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Documents\nhập môn\Source Code\QLNS_DuocPhamLocifa\QLNS_DuocPhamLocifa\UnitTestLogin\obj\Debug\UnitTestLogin.csproj.CopyComplete
+D:\My study\Subject\3-year\hk2-năm 3\chuyên ngành cnpm\Nhập môn công nghệ phần mềm\QLNS_CtyDuocPhamFPTLongChau\QLNS_CtyDuocPhamFPTLongChau\QLNS_CtyDuocPhamFPTLongChau\UnitTestLogin\obj\Debug\UnitTestLogin.csproj.AssemblyReference.cache
+D:\My study\Subject\3-year\hk2-năm 3\chuyên ngành cnpm\Nhập môn công nghệ phần mềm\QLNS_CtyDuocPhamFPTLongChau\QLNS_CtyDuocPhamFPTLongChau\QLNS_CtyDuocPhamFPTLongChau\UnitTestLogin\obj\Debug\UnitTestLogin.csproj.CoreCompileInputs.cache
+D:\My study\Subject\3-year\hk2-năm 3\chuyên ngành cnpm\Nhập môn công nghệ phần mềm\QLNS_CtyDuocPhamFPTLongChau\QLNS_CtyDuocPhamFPTLongChau\QLNS_CtyDuocPhamFPTLongChau\UnitTestLogin\obj\Debug\UnitTestLogin.dll
+D:\My study\Subject\3-year\hk2-năm 3\chuyên ngành cnpm\Nhập môn công nghệ phần mềm\QLNS_CtyDuocPhamFPTLongChau\QLNS_CtyDuocPhamFPTLongChau\QLNS_CtyDuocPhamFPTLongChau\UnitTestLogin\obj\Debug\UnitTestLogin.pdb
+D:\downloads\QLNS_LongChau\QLNS_LongChau\QLNS_LongChau\UnitTestLogin\bin\Debug\App.config
+D:\downloads\QLNS_LongChau\QLNS_LongChau\QLNS_LongChau\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\downloads\QLNS_LongChau\QLNS_LongChau\QLNS_LongChau\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\downloads\QLNS_LongChau\QLNS_LongChau\QLNS_LongChau\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\downloads\QLNS_LongChau\QLNS_LongChau\QLNS_LongChau\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\downloads\QLNS_LongChau\QLNS_LongChau\QLNS_LongChau\UnitTestLogin\bin\Debug\QLNS_LongChau.exe
+D:\downloads\QLNS_LongChau\QLNS_LongChau\QLNS_LongChau\UnitTestLogin\bin\Debug\QLNS_LongChau.pdb
+D:\downloads\QLNS_LongChau\QLNS_LongChau\QLNS_LongChau\UnitTestLogin\bin\Debug\QLNS_LongChau.exe.config
+D:\downloads\QLNS_LongChau\QLNS_LongChau\QLNS_LongChau\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\downloads\QLNS_LongChau\QLNS_LongChau\QLNS_LongChau\UnitTestLogin\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\downloads\QLNS_LongChau\QLNS_LongChau\QLNS_LongChau\UnitTestLogin\obj\Debug\UnitTestLogin.csproj.AssemblyReference.cache
+D:\downloads\QLNS_LongChau\QLNS_LongChau\QLNS_LongChau\UnitTestLogin\obj\Debug\UnitTestLogin.csproj.CoreCompileInputs.cache
+D:\downloads\QLNS_LongChau\QLNS_LongChau\QLNS_LongChau\UnitTestLogin\obj\Debug\UnitTest.2B47CACC.Up2Date
+D:\downloads\QLNS_LongChau\QLNS_LongChau\QLNS_LongChau\UnitTestLogin\obj\Debug\UnitTestLogin.dll
+D:\downloads\QLNS_LongChau\QLNS_LongChau\QLNS_LongChau\UnitTestLogin\obj\Debug\UnitTestLogin.pdb
