@@ -238,7 +238,7 @@
             this.IsMdiContainer = true;
             this.Name = "frmTrangChu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Phần mềm Quản lý nhân sự công ty Dược phẩm LOCIFA";
+            this.Text = "Phần mềm Quản lý nhân sự công ty Dược phẩm FPT Long Châu";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmTrangChu_FormClosing);
             this.Load += new System.EventHandler(this.frmTrangChu_Load);
